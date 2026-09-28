@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Blocking/Blocking.csproj" />
-  <Project Path="NonBlocking/NonBlocking.csproj" Id="90b968aa-e5e6-4107-8a22-c79fa47770c1" />
-  <Project Path="Spinning/Spinning.csproj" />
+  <Project Path="BlockingSynchronization/BlockingSynchronization.csproj" />
+  <Project Path="NonBlockingSynchronization/NonBlockingSynchronization.csproj" />
+  <Project Path="SpinningSynchronization/SpinningSynchronization.csproj" />
 </Solution>
